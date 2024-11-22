@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5783922359594599051
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 121207312805769154, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9dfc825aed78fcd4ba02077103263b40, type: 2}
+    - target: {fileID: 1167613321089979867, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -1002997458, guid: d8224f2b3531ab54094f626c320ae0d5, type: 3}
+    - target: {fileID: 1167613321089979867, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9dfc825aed78fcd4ba02077103263b40, type: 2}
+    - target: {fileID: 1484355886134273165, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 59614c5fca36ab94aaeca26318018fbe, type: 2}
+    - target: {fileID: 2740131922935146767, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9dfc825aed78fcd4ba02077103263b40, type: 2}
+    - target: {fileID: 2902023962122557248, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: dialogue.sentences.Array.data[0]
+      value: "Esse \xE9 o reino de gelo e n\xE9voa, onde a inveja congela o cora\xE7\xE3o.
+        Aqui, a beleza \xE9 uma ilus\xE3o, e a perfei\xE7\xE3o \xE9 inating\xEDvel."
+      objectReference: {fileID: 0}
+    - target: {fileID: 2902023962122557248, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: dialogue.sentences.Array.data[1]
+      value: "As ondas do mar de gelo refletem a frieza da sua alma. Voc\xEA inveja
+        a beleza dos outros, mas n\xE3o v\xEA a feiura que se esconde por tr\xE1s."
+      objectReference: {fileID: 0}
+    - target: {fileID: 2902023962122557248, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: dialogue.sentences.Array.data[2]
+      value: "Neste reino de ar rarefeito, a inveja \xE9 o vento que congela a esperan\xE7a.
+        Voc\xEA ser\xE1 consumido pelo desejo de possuir o que n\xE3o \xE9 seu, e
+        nunca encontrar\xE1 paz."
+      objectReference: {fileID: 0}
+    - target: {fileID: 3161467127439351710, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_Name
+      value: NPC-Inveja
+      objectReference: {fileID: 0}
+    - target: {fileID: 3475286712163707864, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3475286712163707864, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3475286712163707864, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3475286712163707864, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3475286712163707864, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3475286712163707864, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3475286712163707864, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3475286712163707864, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3475286712163707864, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3475286712163707864, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5702192441227173759, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9dfc825aed78fcd4ba02077103263b40, type: 2}
+    - target: {fileID: 8191506070563517054, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9dfc825aed78fcd4ba02077103263b40, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}

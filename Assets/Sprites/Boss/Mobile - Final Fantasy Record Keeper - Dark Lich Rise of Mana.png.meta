@@ -1,0 +1,2651 @@
+fileFormatVersion: 2
+guid: d3ddbd76ba5f6c24ab27de9e4f6083f2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 544
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c92629fe92afce4d995db149fba4e39
+      internalID: 15588880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 544
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a387cbd340b42614a9050be59103eb44
+      internalID: -867687283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 544
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78adbf11e0f91664db7729633d48132b
+      internalID: -1842971729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 544
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f749cfcc31b4ff448d3f2ef3572f7ca
+      internalID: -884090074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_4
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 559
+        width: 62
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f731cb39c3526c4bb9db3e0c33eba74
+      internalID: -2102461103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_5
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 559
+        width: 62
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3e9aded3eda104e8272990b7d81d13
+      internalID: 949085406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_6
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 559
+        width: 62
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60e2cab32a9acc4a8790e424da9b911
+      internalID: 1677481131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_7
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 543
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30029a286b66a1244aba3c73ccf14d1c
+      internalID: -1851274519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 478
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ae744edebe73841aba460c0f21b191
+      internalID: 1911344018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_9
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 478
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf8337284e87764190514f9b3bd62f9
+      internalID: 1082109703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_10
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 478
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc3444dbf7a0e54db78a154bd17ea50
+      internalID: -694446364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_11
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 494
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab43ef93ffba01418942495cd85191f
+      internalID: 1834862997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_12
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 494
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7eeab4f1d6f84458de734a73d9328d
+      internalID: -1517795797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_13
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 522
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09525723c0c41244bdeab8b3d86fc83
+      internalID: -1359213705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_14
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 498
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9efb00901273749a76bdae27c02ba4
+      internalID: -426228107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_15
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 498
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415b6edbdce7bc247abe3ed04f39ffcf
+      internalID: 1845254686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_16
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 498
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617987af34c063843b76c7a4dd14c396
+      internalID: 620202463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_17
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 494
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bd7817116ad7b41bf0effa02403389
+      internalID: 788738915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_18
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 478
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893e198dbedf5044c847d6bf3bdb3443
+      internalID: -235562036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_19
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 504
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2487ef1e61898bb4a92c5c05988382d1
+      internalID: -1627561721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_20
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 444
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0bca24143efaf41ac097a8874a6fe7
+      internalID: -568194884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_21
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 429
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fe9be1720ccd445addff4b05214f04
+      internalID: -1150366698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_22
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 480
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f973880eeb06914589a9831be43a309
+      internalID: -2075838534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_23
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 488
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968ef64de7434b94c96d8b40191fa8f4
+      internalID: -519427322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_24
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 435
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8d708d14402344cb6594f8b6f590e8
+      internalID: -404180431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_25
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 448
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e06239cd6ed25458a678a4dce9c30a
+      internalID: -1897514595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_26
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 448
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb6b2ebc8290f04e92d35e835433285
+      internalID: -1762906107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_27
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 448
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38f44587b35f504798ff2e4fb6bce90
+      internalID: 2075048568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_28
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 472
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a285e52df29014d862b20f06f6eec6
+      internalID: -2073902610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_29
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 444
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e3c62626c2d8a469fee9bfa40ad169
+      internalID: -1594726394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 413
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfba29238c9ffa46ba4bd1aa0fb22e3
+      internalID: 1325523175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_31
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 413
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930e4e855fdcbae4ca163c25680fc2d3
+      internalID: -930188470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_32
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 414
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3ed84282b30684aabaa6f0cfebc98d
+      internalID: -1782478430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_33
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 414
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58f41fd0d1c17f47a5cb4c4bb31fe59
+      internalID: -1947326991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_34
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 451
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc6e11b1837f11479dd0548bdcced32
+      internalID: 2109652379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_35
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 450
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadf03e43859d3b4688aa1b2c0c3a1a3
+      internalID: 1209593063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_36
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 428
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fac5d1d6bfd7394f8e9fab6d648c3db
+      internalID: 459858549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_37
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 380
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de4cb7ffa155064fbabb7a9e1d36e23
+      internalID: -1558380859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_38
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 366
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2295b385ff1dc74b84711efe1780963
+      internalID: 485994821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_39
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 405
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa5ba2bbdb1d4945954cca32007321b
+      internalID: 712402115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_40
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 421
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9b641f6a160fc4898a6557f13b361d
+      internalID: -1999632341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_41
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 388
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4907f08213082b74484605bf17518673
+      internalID: 1608396352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_42
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 401
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c06303de2a8c5428a6d1d30d49c9c5
+      internalID: -1641673820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_43
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b164b64db2e86914588053ba72b88235
+      internalID: 351358154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_44
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edbce3fe4a462d4680a0fc64841b7de
+      internalID: -818719871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_45
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 412
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1e51c2e856a3e4db973394d1dfdd84
+      internalID: -1294092532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_46
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 398
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec092f2e15faf164cb0c399aa1789049
+      internalID: -589289599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_49
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 402
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097f4012ab0133f4e869e2b8b0b89c22
+      internalID: -45342089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_50
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 349
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81cbc88ec685944c8202157857efeb2
+      internalID: 1794944019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_51
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 350
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4271a57f8cb714345ad09bc93ee8862c
+      internalID: -1159487914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_52
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 350
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a34336c47fde14aa6ca336609b5359
+      internalID: -1033363729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_53
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 350
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1defa239fdcaa2c4cb51d116c648bfbc
+      internalID: -993344190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_54
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 393
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756ace1e33745fc418134c157f7728e6
+      internalID: 406390866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_55
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 355
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7affa5a51a75df438901b0a61b89d7c
+      internalID: 851032773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_56
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 368
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2378eab6891a27e4db30dd171329fb55
+      internalID: 1275621338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_57
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 370
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbc06f114b569c469a535f5833cf4b7
+      internalID: -2033753973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_58
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 368
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c279d33364efa754ba35f82d0a89ec36
+      internalID: 509819621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_59
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 355
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c635fec290c0c474abac0c1aa23fb22b
+      internalID: -2133378843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_60
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 378
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f6743196315d84c9f60ca33092eee3
+      internalID: 53044370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_61
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 378
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ad10e1003c18940ad366cfc8508d14
+      internalID: 385501877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 330
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02742eb9febe56479f2e61f08f1353d
+      internalID: -1556076738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_63
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 346
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde6c8cdfc4f6dd43b2ef8d109416f65
+      internalID: -1312159751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_64
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 345
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9313d1a6c3d8ab14780430df5e536bd2
+      internalID: -1295214977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_67
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 299
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef16c943a146f34995ef5ce5da1995c
+      internalID: 1569445503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_68
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 300
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1ad71c0fa11314997526318566c1e4
+      internalID: -1379137488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_69
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 300
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675b3a8772802294c8f269ef21cc51d8
+      internalID: 419329511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_70
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 300
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907bddce3c9421540bc63ac6301d226f
+      internalID: -112717643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_71
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 283
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192a26962852ae04d923a024fc787e19
+      internalID: -11623239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_72
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 319
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ee2e6ddbc76da48bb1e80a570a8705
+      internalID: 1286917475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_73
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 303
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274f29b7730f1814a86d0aa191dff029
+      internalID: -1582664658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_74
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 305
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f030ba79c2bb8c1409c3823b522ff516
+      internalID: -855752526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_75
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 315
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47397b1cac4aff44983c547374000494
+      internalID: 369196948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_76
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 325
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3073f95f109bcac42b7802bbec8aac9a
+      internalID: -1461631518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_77
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 326
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300a8c533d2d28a49bad801d3ded3330
+      internalID: -831577622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_78
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 325
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4b1a7a7905d2f42ad4a2080fc2a03a
+      internalID: 620661707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 178
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382794d29c44ab14b8a59c2aaa5e0a07
+      internalID: 612455123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_80
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 279
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adab7237c1f52042a17b2116a149b2b
+      internalID: -702116452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_81
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 283
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95104bcc703a3c843860e17c53645678
+      internalID: -2008589200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_82
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 212
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e58bf9e593a8f4491cb3f9b6b91292
+      internalID: 370921247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_83
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 260
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839fb40bbcc969a4fb7aadf3f4e9b92c
+      internalID: 1429223271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_84
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 230
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9577ee886be71b94a90b972331106a21
+      internalID: 811415866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_85
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 231
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3f49578f1738a468081e91af3787e5
+      internalID: 1438906211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_86
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 234
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12fed49efb7fe6459e6520bd590980b
+      internalID: 353572084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_87
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 236
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b17fb72e4fe7149990dade57ebfe52
+      internalID: 169009278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_88
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 212
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e437946b56ef694b9cef39c09844535
+      internalID: -1240751653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_89
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 214
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ef34ae6673f3f499a324fd2da4d957
+      internalID: 1229938302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_90
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 215
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ca729b311be7745ba25fa3675bfec4
+      internalID: -1879929054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_91
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 210
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8359fd1a0bfe09640bc1f54ce1fd3fc0
+      internalID: 1182355078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_92
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 216
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388351ac81387894b8ae0b4923c2194a
+      internalID: -1021515286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_93
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 162
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5730ddf79c5f12843b9f29cf2587edc8
+      internalID: -1451605187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_94
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 167
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cdeadf7840f2b4999b6121221e0387
+      internalID: -963459094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_95
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 169
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e453e90b56aba449f3c97228a4760b
+      internalID: 1378716907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_96
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 184
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab34313497434894583da0c13b71920a
+      internalID: 2087846577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_97
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 184
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291ce65f831adb545b55da01fa265e60
+      internalID: 766719036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_98
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 112
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634ca12f6c5bb9744859b713d3c29d4a
+      internalID: 1656152785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_99
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 120
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846d9bca35e40df4ca5069fc430795d5
+      internalID: -709359421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_100
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 125
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3412bd930b1a6d45ad2f0d83e11f7b3
+      internalID: -677621912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_101
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 153
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64854552d0168c34ead83ad7dd479cf8
+      internalID: 86087080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_102
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 153
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7035e730dd91ae4a86fcb9148aa89e7
+      internalID: -1312698464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_103
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 103
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3eaeaf14c8e2db4587b507494cb75d8
+      internalID: -1295341957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_104
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 102
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a323a8dce65f1ed4baa561ffb9857c4a
+      internalID: 1608542080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_105
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 81
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765f14bd9b3e05647a2d21f9bf02d3f0
+      internalID: 1967664610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_106
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 122
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563b9a84d1016024db5155fab83d7308
+      internalID: -459149962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_107
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 52
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cfcde5f53a3794d91678556ccfbb85
+      internalID: 629551587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_108
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 62
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642b0e2dd196f404391752df9d65962e
+      internalID: 951754957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_109
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 76
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c1a862a01311a43b06e40da3a65e35
+      internalID: -1071186424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_110
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 49
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9da1def7bffb6f438bc5752e20cef8c
+      internalID: 1271575234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_111
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 26
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471312e0a6ad14c49a049fe5902d091c
+      internalID: 988319386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_112
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 32
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd732fc8ccd279d4094081815ab52ecf
+      internalID: -380227691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_113
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 33
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7411d0336aa10c24f8c1038cdfb7d73f
+      internalID: -1757162141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_114
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 28
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4452635ae62aa9a4ca9f278602f9b1d3
+      internalID: 936796614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_115
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 28
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a7ee7108a4842488e13f0dd45cf64a
+      internalID: -2090596059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_116
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 32
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50739e613d20acb4a87138ee4c67d8c6
+      internalID: 29218340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_47
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 154
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8c3f1850397e343b7aa981c509a15b
+      internalID: 1285291212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: dd60684d2f817be41979a562d1a51ac4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_0: 15588880
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_1: -867687283
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_10: -694446364
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_100: -677621912
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_101: 86087080
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_102: -1312698464
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_103: -1295341957
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_104: 1608542080
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_105: 1967664610
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_106: -459149962
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_107: 629551587
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_108: 951754957
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_109: -1071186424
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_11: 1834862997
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_110: 1271575234
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_111: 988319386
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_112: -380227691
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_113: -1757162141
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_114: 936796614
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_115: -2090596059
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_116: 29218340
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_12: -1517795797
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_13: -1359213705
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_14: -426228107
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_15: 1845254686
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_16: 620202463
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_17: 788738915
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_18: -235562036
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_19: -1627561721
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_2: -1842971729
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_20: -568194884
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_21: -1150366698
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_22: -2075838534
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_23: -519427322
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_24: -404180431
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_25: -1897514595
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_26: -1762906107
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_27: 2075048568
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_28: -2073902610
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_29: -1594726394
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_3: -884090074
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_30: 1325523175
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_31: -930188470
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_32: -1782478430
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_33: -1947326991
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_34: 2109652379
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_35: 1209593063
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_36: 459858549
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_37: -1558380859
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_38: 485994821
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_39: 712402115
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_4: -2102461103
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_40: -1999632341
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_41: 1608396352
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_42: -1641673820
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_43: 351358154
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_44: -818719871
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_45: -1294092532
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_46: -589289599
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_47: 1285291212
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_48: 956620471
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_49: -45342089
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_5: 949085406
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_50: 1794944019
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_51: -1159487914
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_52: -1033363729
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_53: -993344190
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_54: 406390866
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_55: 851032773
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_56: 1275621338
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_57: -2033753973
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_58: 509819621
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_59: -2133378843
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_6: 1677481131
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_60: 53044370
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_61: 385501877
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_62: -1556076738
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_63: -1312159751
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_64: -1295214977
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_65: 211965134
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_66: -772509151
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_67: 1569445503
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_68: -1379137488
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_69: 419329511
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_7: -1851274519
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_70: -112717643
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_71: -11623239
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_72: 1286917475
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_73: -1582664658
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_74: -855752526
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_75: 369196948
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_76: -1461631518
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_77: -831577622
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_78: 620661707
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_79: 612455123
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_8: 1911344018
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_80: -702116452
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_81: -2008589200
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_82: 370921247
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_83: 1429223271
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_84: 811415866
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_85: 1438906211
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_86: 353572084
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_87: 169009278
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_88: -1240751653
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_89: 1229938302
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_9: 1082109703
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_90: -1879929054
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_91: 1182355078
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_92: -1021515286
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_93: -1451605187
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_94: -963459094
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_95: 1378716907
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_96: 2087846577
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_97: 766719036
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_98: 1656152785
+      Mobile - Final Fantasy Record Keeper - Dark Lich Rise of Mana_99: -709359421
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
