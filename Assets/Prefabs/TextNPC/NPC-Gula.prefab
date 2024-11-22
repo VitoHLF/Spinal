@@ -1,0 +1,150 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7952742850935306716
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 121207312805769154, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9dfc825aed78fcd4ba02077103263b40, type: 2}
+    - target: {fileID: 1167613321089979867, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 982837257, guid: e962bee768e349a47bc0ab0e16cb88aa, type: 3}
+    - target: {fileID: 1167613321089979867, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9dfc825aed78fcd4ba02077103263b40, type: 2}
+    - target: {fileID: 1484355886134273165, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 7d8b0fe7609f8ca4db636c1f9381e2d3, type: 2}
+    - target: {fileID: 2565461050357157992, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.607
+      objectReference: {fileID: 0}
+    - target: {fileID: 2565461050357157992, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.282
+      objectReference: {fileID: 0}
+    - target: {fileID: 2740131922935146767, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9dfc825aed78fcd4ba02077103263b40, type: 2}
+    - target: {fileID: 2902023962122557248, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: dialogue.sentences.Array.data[0]
+      value: "Bem-vindo, viajante, ao banquete eterno! Aqui, a mesa est\xE1 sempre
+        cheia, e o apetite nunca \xE9 saciado. Deixe-se consumir pela fome insaci\xE1vel!"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2902023962122557248, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: dialogue.sentences.Array.data[1]
+      value: "O sabor da carne, o doce da sobremesa, o aroma do vinho... Nada \xE9
+        proibido aqui. A gula \xE9 a regra, e a modera\xE7\xE3o \xE9 um pecado.\r"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2902023962122557248, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: dialogue.sentences.Array.data[2]
+      value: "N\xE3o se preocupe com as consequ\xEAncias, n\xE3o pense no amanh\xE3.
+        Apenas coma, beba e se deleite. O prazer imediato \xE9 o \xFAnico objetivo."
+      objectReference: {fileID: 0}
+    - target: {fileID: 3161467127439351710, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_Name
+      value: NPC-Gula
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353036620516690024, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.549
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353036620516690024, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.012
+      objectReference: {fileID: 0}
+    - target: {fileID: 3475286712163707864, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3475286712163707864, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3475286712163707864, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3475286712163707864, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3475286712163707864, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3475286712163707864, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3475286712163707864, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3475286712163707864, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3475286712163707864, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3475286712163707864, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3560833217414485282, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.629
+      objectReference: {fileID: 0}
+    - target: {fileID: 3560833217414485282, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.062
+      objectReference: {fileID: 0}
+    - target: {fileID: 4730081905126628646, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5702192441227173759, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 136406290, guid: 0f3128ee044ebab499091a88451b26ff, type: 3}
+    - target: {fileID: 5702192441227173759, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9dfc825aed78fcd4ba02077103263b40, type: 2}
+    - target: {fileID: 6937012013644198674, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9995547
+      objectReference: {fileID: 0}
+    - target: {fileID: 6937012013644198674, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.029840784
+      objectReference: {fileID: 0}
+    - target: {fileID: 6937012013644198674, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -3.42
+      objectReference: {fileID: 0}
+    - target: {fileID: 6937012013644198674, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8191506070563517054, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9dfc825aed78fcd4ba02077103263b40, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c9a0618d3a8f0fd49af370cc12f77fe7, type: 3}
